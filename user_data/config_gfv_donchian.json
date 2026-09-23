@@ -57,5 +57,6 @@
   },
   "internals": {
     "process_throttle_secs": 5
-  }
+  },
+  "initial_state": "running"
 }
